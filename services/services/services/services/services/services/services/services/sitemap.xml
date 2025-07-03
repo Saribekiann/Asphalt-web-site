@@ -1,0 +1,22 @@
+diff --git a//dev/null b/sitemap.xml
+index 0000000000000000000000000000000000000000..01dc4b0f3bf6a36a1772f2259e852751548cd927 100644
+--- a//dev/null
++++ b/sitemap.xml
+@@ -0,0 +1,17 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
++  <url><loc>/index.html</loc></url>
++  <url><loc>/services/index.html</loc></url>
++  <url><loc>/services/yamochnyj-remont.html</loc></url>
++  <url><loc>/services/asfaltirovanie.html</loc></url>
++  <url><loc>/services/ukladka-bordyura.html</loc></url>
++  <url><loc>/services/gidroizolyatsiya-drenazh.html</loc></url>
++  <url><loc>/services/razmetka-dorog.html</loc></url>
++  <url><loc>/services/blagoustroystvo-territorii.html</loc></url>
++  <url><loc>/services/ustanovka-dorozhnyh-plit.html</loc></url>
++  <url><loc>/ceny.html</loc></url>
++  <url><loc>/o-kompanii.html</loc></url>
++  <url><loc>/kontakty.html</loc></url>
++  <url><loc>/otzyvy.html</loc></url>
++  <url><loc>/faq.html</loc></url>
++</urlset>
