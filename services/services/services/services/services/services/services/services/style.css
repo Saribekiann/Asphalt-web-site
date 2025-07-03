@@ -1,0 +1,24 @@
+diff --git a//dev/null b/style.css
+index 0000000000000000000000000000000000000000..6cb684f01563a374892f5b6bb15fc2ef8cea4e10 100644
+--- a//dev/null
++++ b/style.css
+@@ -0,0 +1,19 @@
++/* Basic reset */
++* { margin:0; padding:0; box-sizing:border-box; }
++body { font-family: Arial, sans-serif; line-height:1.6; color:#333; background:#fff; }
++header, nav, main, footer { padding:20px; }
++nav ul { list-style:none; display:flex; flex-wrap:wrap; }
++nav li { margin-right:15px; }
++nav a { text-decoration:none; color:#000; font-weight:bold; }
++.hero { background:#eee; padding:60px 20px; text-align:center; }
++.hero h1 { font-size:2rem; color:#222; margin-bottom:20px; }
++.btn { display:inline-block; padding:10px 20px; background:#ffc107; color:#000; text-decoration:none; border-radius:4px; }
++section { margin:40px 0; }
++.services-grid { display:flex; flex-wrap:wrap; gap:20px; }
++.service-card { flex:1 1 300px; background:#f8f8f8; padding:20px; border-radius:4px; text-align:center; }
++.service-card img { max-width:100%; height:auto; }
++table { width:100%; border-collapse:collapse; }
++td, th { border:1px solid #ccc; padding:8px; text-align:left; }
++footer { background:#222; color:#fff; text-align:center; padding:20px; }
++@media(max-width:768px){ nav ul{ flex-direction:column; }
++nav li{ margin-right:0; margin-bottom:10px; }}
