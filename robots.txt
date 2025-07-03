@@ -1,0 +1,8 @@
+diff --git a//dev/null b/robots.txt
+index 0000000000000000000000000000000000000000..b27b184ab8b9631ac24cde76da443ff2ba320efc 100644
+--- a//dev/null
++++ b/robots.txt
+@@ -0,0 +1,3 @@
++User-agent: *
++Allow: /
++Sitemap: /sitemap.xml
